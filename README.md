@@ -246,15 +246,3 @@ The application serves as both a practical security tool and a reference impleme
 
 ---
 
-## 📝 License
-
-This project is provided as-is for educational and personal use.
-
----
-
-## 💬 Version Info
-
-- **Version**: 1.0.0
-- **Last Updated**: November 2025
-- **Python Requirement**: 3.6+
-- **Dependencies**: None (standard library only)
